@@ -1,2 +1,0 @@
-# Handicraft-Nepal
-Group project
