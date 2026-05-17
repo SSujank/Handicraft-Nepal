@@ -1,9 +1,9 @@
 <?php
-// Update these values if your local database username/password is different.
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'handicraft_store_db');
+define('DB_HOST', 'mysql.railway.internal');
+define('DB_NAME', 'railway');
 define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_PASS', 'WcpikuPDgTdBYVgxFWKNYFEcdKubLPGL');
+define('DB_PORT', '3306');
 
 define('SITE_NAME', 'Handicraft Nepal Online Store');
 define('SITE_TAGLINE', 'Authentic Handmade Treasures from Nepal');
