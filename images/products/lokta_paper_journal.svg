@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title>Lokta Paper Journal</title>
+  <desc>Handmade journal crafted from lokta paper</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6efe3"/>
+      <stop offset="100%" stop-color="#eadfce"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="115" cy="98" r="72" fill="#f0dfca" opacity="0.8"/>
+  <circle cx="685" cy="508" r="92" fill="#efe4d2" opacity="0.8"/>
+  <text x="60" y="74" font-size="16" font-family="Georgia, serif" letter-spacing="4" fill="#b86245">HANDICRAFT NEPAL</text>
+  <text x="60" y="112" font-size="38" font-family="Georgia, serif" font-weight="700" fill="#2f1f19">Lokta Paper Journal</text>
+  <text x="60" y="142" font-size="18" font-family="Arial, sans-serif" fill="#6b4a35">Art &amp; Masks</text>
+  <g><rect x="270" y="165" width="260" height="230" rx="14" fill="#f7ead8" stroke="#8c674c" stroke-width="10"/><circle cx="400" cy="235" r="45" fill="#d2a56c"/><path d="M320 325 Q400 250 480 325" fill="none" stroke="#b86245" stroke-width="10"/><path d="M315 280 Q360 225 405 280 T495 280" fill="none" stroke="#7a8f69" stroke-width="8"/></g>
+  <text x="60" y="520" font-size="22" font-family="Arial, sans-serif" fill="#6b4a35">Handmade journal crafted from lokta paper</text>
+  <text x="60" y="558" font-size="16" font-family="Arial, sans-serif" fill="#8c674c">Handmade craft product image for the online store</text>
+</svg>
