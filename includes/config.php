@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', 'mysql.railway.internal');
-define('DB_NAME', 'railway');
+define('DB_NAME', 'handicraft_store_db');
 define('DB_USER', 'root');
 define('DB_PASS', 'WcpikuPDgTdBYVgxFWKNYFEcdKubLPGL');
 define('DB_PORT', '3306');
